@@ -7,5 +7,8 @@ public class HomePage
         //nav menu
         //more lines
         //logo
+
+        //add more things
+        //footer
     }
 }
